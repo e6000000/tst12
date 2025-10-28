@@ -1,0 +1,12 @@
+1
+tag 1.0.0  
+ gemini  gpt4  claude35heiku  deepSeekV3  
+
+
+  create release from tag   - button 
+  
+ ECHO.
+ECHO ===================================
+ECHO Pushing new tag to local backup...
+ECHO ===================================
+git push local-backup %NEW_TAG% 
